@@ -14,8 +14,7 @@ package id.dandiahmadin.biayaemaskawin;
  * Deskripsi Program : Program ini berisi class Emas
  */
 public class Emas {
-    private double harga;
-    private double berat;
+    private double harga, berat;
     
     public void setBerat(double berat) {
         this.berat = berat;
